@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kocuj-sitemap-meta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-27 12:20+0100\n"
+"PO-Revision-Date: 2013-09-26 16:11+0100\n"
+"Last-Translator: Dominik Kocuj <dominik@kocuj.pl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Description of plugin
+msgid "This plugin adds shortcode and PHP function that prepares the sitemap which contains links to all of your posts, pages and menu items in the place where it is located. It supports multilingual websites (by using qTranslate plugin if exists). The sitemap is automatically generated and stored in the cache to speeds up the loading of sitemap on your website."
+msgstr ""

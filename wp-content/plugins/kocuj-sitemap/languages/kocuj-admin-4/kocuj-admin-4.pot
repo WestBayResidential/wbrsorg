@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kocujadmin4\n"
+"POT-Creation-Date: 2015-11-27 12:26+0100\n"
+"PO-Revision-Date: 2015-11-27 12:26+0100\n"
+"Last-Translator: Dominik Kocuj <dominik@kocuj.pl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../.\n"
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-config.class.php:269
+msgid "should be on or off"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-config.class.php:331
+msgid "should be numeric"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-config.class.php:389
+msgid "must be numeric and should be already existing post"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-config.class.php:450
+msgid "must be numeric and should be already existing page"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-config.class.php:505
+msgid "must be in format \"yy-mm-dd\""
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-config.class.php:562
+msgid "must be in format \"hh:ii\""
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-config.class.php:619
+msgid "must be in format \"yy-mm-dd hh:ii\""
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:855
+msgid "Settings saved."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:856
+msgid "Settings reset."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:857
+msgid "Settings has been uninstalled."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1032
+#, php-format
+msgid ""
+"If you want to thanks the author, please allow to send an information about "
+"your website address to him. This information will be used only for "
+"statistical purposes and for adding public information about your website on "
+"the following websites: %s. Please, keep in mind, that this information can "
+"be used in future on another websites which will belong to author - but "
+"always for statistical and information purposes.<br /><br />Please, support "
+"this project by doing this - it is for free, so it is the best way to thanks "
+"the author for his contribution.<br /><br />Only the following information "
+"about your website will be send to author:<ul><li>website address (URL);</"
+"li><li>website title;</li><li>website description.</li></ul>No other "
+"information will be send.<br /><br />These information will not be send "
+"anywhere else, only to author, and it will be saved in database belonging to "
+"author only."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1077
+msgid "Sending information about your website address, please wait..."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1078
+msgid ""
+"You have already send information about your website address. Thank you."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1079
+msgid "Thank you for sending information about your website address to author."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1080
+msgid ""
+"There was an error during sending information about your website address to "
+"author. There will be another attempt to do this in a few seconds."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1081
+msgid ""
+"There was an error during sending information about your website address to "
+"author. Please try again later."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1082
+msgid "More information about sending your website address"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1083
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1096
+msgid "Loading, please wait"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1084
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1097
+msgid ""
+"Loading error! Please, check your internet connection and refresh page to "
+"try again."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1098
+msgid "License"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1099
+msgid "Click here to accept this license"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1100
+msgid ""
+"If you do not agree with it, please remove all related files; then you can "
+"refresh page to continue"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1161
+msgid "You have no permission to view this site."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1381
+msgid "Support this plugin by becoming a fan on Facebook"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1383
+msgid "Support this theme by becoming a fan on Facebook"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1387
+msgid "Translated by"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1390
+msgid ""
+"Information about bugs and proposal of a new functionality please send to"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1403
+msgid "Author"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1408
+#, php-format
+msgid "This is licensed under %s license"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1417
+#, php-format
+msgid ""
+"If you want to thanks author, please agree to send information about your "
+"website address by clicking on the button below. Click %shere%s to see more "
+"information about this procedure."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1418
+msgid "Send information about this website address to author"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1509
+msgid "and"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:1911
+#, php-format
+msgid ""
+"You are using WordPress version below %s. Some options are hidden and some "
+"functionality is not available. It will be activated when you will update "
+"WordPress to - at least - %s version."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:2390
+msgid "Are you sure do you want to restore default settings?"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:2427
+msgid "Are you sure do you want to uninstall settings?"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:2845
+msgid "add new element"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:2977
+msgid "License for plugin"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:2979
+msgid "License fot theme"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3068
+msgid "Unknown form error."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3083
+msgid "Wrong parameters."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3177
+msgid ""
+"There were some errors. Options with these problems have not been saved."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3198
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3226
+#, php-format
+msgid "Thank you for using plugin %s."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3200
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3228
+#, php-format
+msgid "Thank you for using theme %s."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3204
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3232
+msgid "Thank you for using this plugin."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3206
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3234
+msgid "Thank you for using this theme."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3209
+msgid ""
+"If you want to thanks the author, please allow to send some information to "
+"him."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3210
+msgid "See more about it"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3210
+msgid "or"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3210
+msgid "close this information"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3237
+#, php-format
+msgid ""
+"If you want to thanks the author, please allow to send information about "
+"your website address. This will be used for statistical purposes and for "
+"adding public information about your website on the following websites: %s. "
+"Please, support this project by doing this - it is for free, so it is the "
+"best way to thanks the author for his contribution."
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3240
+msgid "Show more information"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3246
+msgid ""
+"Yes, I agree to thanks author by sending the described information to him"
+msgstr ""
+
+#: ../.././classes/kocuj-admin-4/includes/kocuj-admin-admin.class.php:3247
+msgid "No, I do not agree to do this (this information will never show again)"
+msgstr ""

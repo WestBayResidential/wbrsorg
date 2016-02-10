@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kocuj-sitemap\n"
+"POT-Creation-Date: 2016-01-27 12:24+0100\n"
+"PO-Revision-Date: 2016-01-27 12:24+0100\n"
+"Last-Translator: Dominik Kocuj <dominik@kocuj.pl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././classes/sitemap.class.php:413
+#, php-format
+msgid "Powered by %s plugin"
+msgstr ""
+
+#: .././classes/admin.class.php:127 .././classes/admin.class.php:129
+msgid "Sitemap"
+msgstr ""
+
+#: .././classes/admin.class.php:130
+msgid "Settings"
+msgstr ""
+
+#: .././classes/admin.class.php:131 .././classes/admin.class.php:374
+msgid "Uninstall"
+msgstr ""
+
+#: .././classes/admin.class.php:132 .././classes/admin.class.php:426
+msgid "Help"
+msgstr ""
+
+#: .././classes/admin.class.php:133 .././classes/admin.class.php:468
+msgid "About"
+msgstr ""
+
+#: .././classes/admin.class.php:135
+msgid "sitemap"
+msgstr ""
+
+#: .././classes/admin.class.php:135
+#: .././php/tinymce/kocujsitemap-plugin-langs.php:6
+msgid "Add sitemap shortcode"
+msgstr ""
+
+#: .././classes/admin.class.php:151
+msgid ""
+"There will completely transformed plugin Kocuj Sitemap on 27th February "
+"2016. Because there will be many changes, the new version will have also "
+"higher requirements than older versions of this plugin."
+msgstr ""
+
+#: .././classes/admin.class.php:153
+msgid "New version will require PHP in - minimum - version 5.3."
+msgstr ""
+
+#: .././classes/admin.class.php:156 .././classes/admin.class.php:158
+#, php-format
+msgid "You are using PHP in %s version."
+msgstr ""
+
+#: .././classes/admin.class.php:156
+msgid ""
+"Your server or hosting account is prepared for Kocuj Sitemap plugin in "
+"version 2.0.0. Congratulations!"
+msgstr ""
+
+#: .././classes/admin.class.php:158
+msgid ""
+"Your server or hosting account is not prepared for Kocuj Sitemap plugin in "
+"version 2.0.0. Contact with your server or hosting account provider for "
+"information about PHP upgrade possibilities."
+msgstr ""
+
+#: .././classes/admin.class.php:174
+#, php-format
+msgid ""
+"Warning! Your cache directory for sitemap in Kocuj Sitemap plugin (placed in "
+"\"%s\") is not writable. Please, change permissions to this directory to "
+"allow the plugin to use cache for better performance."
+msgstr ""
+
+#: .././classes/admin.class.php:187
+#, php-format
+msgid ""
+"There will completely transformed plugin Kocuj Sitemap on 27th February "
+"2016. Because there will be many changes, the new version will have higher "
+"requirements than older versions of this plugin. Click %shere%s to find out "
+"if your server or hosting account meets these requirements. If you click on "
+"this link, this information will not be displayed anymore."
+msgstr ""
+
+#: .././classes/admin.class.php:221
+msgid "Loading, please wait"
+msgstr ""
+
+#: .././classes/admin.class.php:222
+msgid ""
+"Loading error! Please, check your internet connection and refresh page to "
+"try again."
+msgstr ""
+
+#: .././classes/admin.class.php:223
+msgid "Information about future version of Kocuj Sitemap plugin"
+msgstr ""
+
+#: .././classes/admin.class.php:277
+msgid "Sitemap format"
+msgstr ""
+
+#: .././classes/admin.class.php:279
+msgid "Menus"
+msgstr ""
+
+#: .././classes/admin.class.php:282
+msgid "Multi-language plugins"
+msgstr ""
+
+#: .././classes/admin.class.php:284
+msgid "Other"
+msgstr ""
+
+#: .././classes/admin.class.php:292
+msgid ""
+"Choose which elements and in which order you want to display in the sitemap."
+msgstr ""
+
+#: .././classes/admin.class.php:293
+msgid ""
+"If it is checked, the sitemap will display link to the main site as a first "
+"entry"
+msgstr ""
+
+#: .././classes/admin.class.php:295
+msgid "If it is checked, the sitemap will display menus"
+msgstr ""
+
+#: .././classes/admin.class.php:297
+msgid "If it is checked, the sitemap will display pages"
+msgstr ""
+
+#: .././classes/admin.class.php:298
+msgid "If it is checked, the sitemap will display posts and categories"
+msgstr ""
+
+#: .././classes/admin.class.php:301
+msgid "Menus, pages, posts"
+msgstr ""
+
+#: .././classes/admin.class.php:302
+msgid "Menus, posts, pages"
+msgstr ""
+
+#: .././classes/admin.class.php:303
+msgid "Pages, menus, posts"
+msgstr ""
+
+#: .././classes/admin.class.php:304
+msgid "Posts, menus, pages"
+msgstr ""
+
+#: .././classes/admin.class.php:305
+msgid "Pages, posts, menus"
+msgstr ""
+
+#: .././classes/admin.class.php:306
+msgid "Posts, pages, menus"
+msgstr ""
+
+#: .././classes/admin.class.php:308
+msgid "Pages, posts"
+msgstr ""
+
+#: .././classes/admin.class.php:309
+msgid "Posts, pages"
+msgstr ""
+
+#: .././classes/admin.class.php:311
+msgid ""
+"Set order of elements in the sitemap; element which are not available "
+"(menus, pages or posts) are not displayed"
+msgstr ""
+
+#: .././classes/admin.class.php:319
+msgid ""
+"Select all menus here which should be displayed in the sitemap. You can add "
+"new values, delete which you want to remove and change order. All changes "
+"will be saved only if you click on the \"save settings\" button."
+msgstr ""
+
+#: .././classes/admin.class.php:321
+msgid ""
+"Menus which should be included in sitemap; it works only if option `display "
+"menus` is checked"
+msgstr ""
+
+#: .././classes/admin.class.php:323
+msgid ""
+"No menus. Options here will be activated as soon as you create any menu."
+msgstr ""
+
+#: .././classes/admin.class.php:333
+msgid ""
+"Select some plugins which you want to use for multi-language website. You "
+"must also installed and activated them to working it correctly. If you do "
+"not want to have a multi-language website, you can leave these section as it "
+"is or uncheck any of these settings if you have any problems with it."
+msgstr ""
+
+#: .././classes/admin.class.php:342
+msgid ""
+"There are some additional settings here which changes an appearance of the "
+"displayed sitemap."
+msgstr ""
+
+#: .././classes/admin.class.php:343
+msgid ""
+"If it is checked, the sitemap will display itself in HTML 5 navigation tag "
+"(`nav`); for Internet Explorer browser version which not supports HTML 5 "
+"(all versions below 9), tag will be changed to `div`; this tag will always "
+"have CSS class `tagnav` attached to itself"
+msgstr ""
+
+#: .././classes/admin.class.php:344
+msgid ""
+"Display `powered by` information below sitemap with link to author website; "
+"if you find this plugin useful, you are welcome to check this option"
+msgstr ""
+
+#: .././classes/admin.class.php:352
+msgid "Save settings"
+msgstr ""
+
+#: .././classes/admin.class.php:352
+msgid "Save current settings"
+msgstr ""
+
+#: .././classes/admin.class.php:353
+msgid "Restore default settings"
+msgstr ""
+
+#: .././classes/admin.class.php:353
+msgid "Reset settings to defaults"
+msgstr ""
+
+#: .././classes/admin.class.php:378
+msgid ""
+"If you want to uninstall this plugin you can disable it in Plugins/Installed "
+"menu. After that you can again install this plugin without any setting "
+"losses."
+msgstr ""
+
+#: .././classes/admin.class.php:380
+msgid ""
+"If you want permanently delete all plugin settings, click on the button "
+"below. Remember that you cannot restore this settings after reinstalling the "
+"plugin."
+msgstr ""
+
+#: .././classes/admin.class.php:383
+msgid "Uninstall plugin"
+msgstr ""
+
+#: .././classes/admin.class.php:383
+msgid "Uninstall plugin settings"
+msgstr ""
+
+#: .././classes/admin.class.php:430
+msgid ""
+"##PLUGINNAME## plugin adds shortcode ##SHORTCODE## that puts the sitemap in "
+"the place where it is located. This allows you to display links to all of "
+"your posts, pages and menu items anywhere on your website - even within the "
+"article. There is also a PHP function that allows you to place the sitemap "
+"anywhere on the website.<br /><br />This plugin supports multilingual "
+"websites. If you have installed the plugin compatible with ##PLUGINNAME## "
+"plugin (currently it is <em>qTranslate</em>), the plugin will generate a "
+"sitemap on your website in accordance with the currently selected language. "
+"If you do not have the plugin that supports multilingualism, ##PLUGINNAME## "
+"plugin will display a sitemap for the default language defined for your "
+"WordPress installation.<br /><br />The sitemap is automatically generated "
+"and stored in the cache after each change of any element in the "
+"administration panel, which is used in it (for example, when you change a "
+"post) to avoid using the database when loading a web page. This process "
+"speeds up the loading of sitemap on your website."
+msgstr ""
+
+#: .././classes/admin.class.php:432
+msgid "Requirements"
+msgstr ""
+
+#: .././classes/admin.class.php:433
+msgid ""
+"This plugin requires PHP 5 (up to PHP 5.4.x version) and WordPress 2.8 or "
+"greater. It is recommended to use WordPress in, at least, 3.5 version."
+msgstr ""
+
+#: .././classes/admin.class.php:435
+msgid "How to use"
+msgstr ""
+
+#: .././classes/admin.class.php:436
+msgid ""
+"The shortcode ##SHORTCODE## has optional parameters:<ul><li><em>title</em> - "
+"text that will be used as the title of the link to the main page,</"
+"li><li><em>class</em> - name of the style sheet class that will be added to "
+"the block element (<em>div</em> or <em>nav</em>) containing the entire "
+"sitemap.</li></ul>For example, if you add:<br />##SHORTCODEEXAMPLE##<br /"
+">the sitemap will be displayed in the block element (<em>div</em> or "
+"<em>nav</em>) with the CSS class <em>new_class</em> and link to the home "
+"page with title <em>NEW TITLE</em>.<br /><br />If you do not want to put the "
+"sitemap in the article, you can edit the PHP file responsible for the theme. "
+"##PLUGINNAME## plugin defines global PHP function which declaration is as "
+"follows:<br />##PHPFUNCTION##<br />The parameters <em>$title</em> and <em>"
+"$class</em> perform the same function as the corresponding parameters in the "
+"shortcode ##SHORTCODE##. For example, if you add:<br />##PHPEXAMPLE##<br /"
+">the sitemap will be displayed in the block element (<em>div</em> or "
+"<em>nav</em>) with the CSS class <em>new_class</em> and link to the home "
+"page with title <em>NEW TITLE</em>."
+msgstr ""
+
+#: .././classes/admin.class.php:438
+msgid "Configuration"
+msgstr ""
+
+#: .././classes/admin.class.php:439
+msgid ""
+"There is option <em>Sitemap</em> in the administration panel, which is used "
+"to configure the behavior of the ##PLUGINNAME## plugin. If you select "
+"<em>Settings</em> from the plugin menu, you will find yourself in a place "
+"where you can set options for the plugin.<br /><br />The settings are "
+"divided into tabs. There can be active only one tab at once. Tab is selected "
+"by clicking on its name.<br /><br />Each tab contains a set of options. Each "
+"option has a description that is displayed when you set mouse cursor over it."
+"<br /><br />Changes in the configuration can be saved by clicking on the "
+"<em>Save settings</em> button. Clicking on the <em>Restore default settings</"
+"em> button restore the settings that were set after installing a plugin."
+msgstr ""
+
+#: .././classes/admin.class.php:441
+msgid "Translations"
+msgstr ""
+
+#: .././classes/admin.class.php:442
+msgid ""
+"There are available the following languages for ##PLUGINNAME## plugin:"
+"<ul><li><em>English</em> (default),</li><li><em>French</em> (file "
+"<em>languages/kocuj-sitemap-fr_FR.mo</em>; translated by: <a href=\"http://"
+"profiles.wordpress.org/mister-klucha\" rel=\"external\">Richard Macareno "
+"(\"mister klucha\")</a>),</li><li><em>Polish</em> (file <em>languages/kocuj-"
+"sitemap-pl_PL.mo</em>).</li></ul>Plugin ##PLUGINNAME## gives you the ability "
+"to translate your texts into other languages. To do this, you should prepare "
+"3 PO files created from the following templates: ##TRANSLATIONFILES## More "
+"information about translating are available in ##TRANSLATIONLINK##.<br /"
+"><br />If you translate this plugin, please send it to author at "
+"##AUTHORMAIL## to add your contribution to project."
+msgstr ""
+
+#: .././classes/admin.class.php:444
+msgid "Filters"
+msgstr ""
+
+#: .././classes/admin.class.php:445
+msgid ""
+"The ##PLUGINNAME## plugin contains a set of filters that allow you to change "
+"some behavior of the plugin. This allows you to adapt the plugin to the "
+"requirements of the developer of another plugin or theme without making "
+"changes to the code in ##PLUGINNAME## plugin.<br /><br />If you think that "
+"##PLUGINNAME## plugin should add another filter, please inform the author at "
+"##AUTHORMAIL## .<br /><br />##PLUGINNAME## plugin contains the following "
+"filters:<br /><br /><strong><em>kocujsitemap_additionalmultilangphpclasses</"
+"em></strong><br /><br /><em>Parameters:</em><ol><li>array - a list of other "
+"PHP classes that support multi-language plugins and they are not built-in "
+"into the ##PLUGINNAME## plugin</li></ol><em>Returned value:</"
+"em><ol><li>array - a list of PHP classes that support multi-language plugins "
+"and they are not built-in into the ##PLUGINNAME## plugin</li></"
+"ol><em>Description:</em><br /><br />This filter adds a PHP class for "
+"supporting multi-language websites. To add a new PHP class, you need to add "
+"a new element to array which contains the following fields:<ul><li><em>dir</"
+"em> - full path to the file with a new PHP class,</li><li><em>class</em> - "
+"PHP class name.</li></ul>More information about this functionality can be "
+"found by looking into file <em>classes/multilang/qtranslate.class.php</em> "
+"which can be a good example for developer of another PHP class.<br /><br /"
+">This filter is available from version 1.2.0 of the ##PLUGINNAME## plugin."
+"<br /><br /><strong><em>kocujsitemap_defaultclass</em></strong><br /><br /"
+"><em>Parameters:</em><ol><li>string - text with all default CSS classes for "
+"a sitemap container (block element <em>div</em> or <em>nav</em>)</li></"
+"ol><em>Returned value:</em><ol><li>string - text with all default CSS "
+"classes for a sitemap container (block element <em>div</em> or <em>nav</"
+"em>)</li></ol><em>Description:</em><br /><br />This filter sets the default "
+"CSS class that is used in the block element of the sitemap. It is used if "
+"there is not specified <em>class</em> parameter in the ##SHORTCODE## "
+"shortcode, or if there is not specified <em>$class</em> parameter in the "
+"<em>kocujsitemap_show_sitemap</em> PHP function.<br /><br /"
+"><strong><em>kocujsitemap_defaultmenus</em></strong><br /><br /"
+"><em>Parameters:</em><ol><li>array - a list of menus ID</li></"
+"ol><em>Returned value:</em><ol><li>array - a list of menus ID</li></"
+"ol><em>Description:</em><br /><br />This filter sets the default list of "
+"menus that appear in the sitemap if the list in the \"menus list\" in "
+"administration panel is empty. This filter exists only in WordPress version "
+"3.0 and newer.<br /><br /><strong><em>kocujsitemap_defaulttitle</em></"
+"strong><br /><br /><em>Parameters:</em><ol><li>string - text with default "
+"title for link to the main page</li><li>string - current locale (this "
+"parameter is available from version 1.2.0 of the ##PLUGINNAME## plugin)</"
+"li></ol><em>Returned value:</em><ol><li>string - text with default title for "
+"link to the main page</li></ol><em>Description:</em><br /><br />This filter "
+"sets the default title that is used in the link to the main page in the "
+"sitemap. It is used if there is not specified <em>title</em> parameter in "
+"the ##SHORTCODE## shortcode, or if there is not specified <em>$title</em> "
+"parameter in the <em>kocujsitemap_show_sitemap</em> PHP function.<br /><br /"
+"><strong><em>kocujsitemap_firstclass</em></strong><br /><br /><em>Parameters:"
+"</em><ol><li>string - text with CSS class for first element in the sitemap</"
+"li></ol><em>Returned value:</em><ol><li>string - text with CSS class for "
+"first element in the sitemap</li></ol><em>Description:</em><br /><br />This "
+"filter sets the CSS class that is used in the first element of the sitemap."
+"<br /><br /><strong><em>kocujsitemap_linktitle</em></strong><br /><br /"
+"><em>Parameters:</em><ol><li>string - text with link title</li><li>int - "
+"object ID or 0 for link to the main page (this parameter is available from "
+"version 1.2.0 of the ##PLUGINNAME## plugin)</li><li>string - object type; "
+"available values: \"post\" for post, \"page\" for page, \"menu\" for menu "
+"item (only in WordPress version 3.0 and newer), \"category\" for category "
+"and \"home\" for link to the main page (this parameter is available from "
+"version 1.2.0 of the ##PLUGINNAME## plugin)</li><li>string - current locale "
+"(this parameter is available from version 1.2.0 of the ##PLUGINNAME## "
+"plugin)</li></ol><em>Returned value:</em><ol><li>string - text with link "
+"title</li></ol><em>Description:</em><br /><br />This filter sets the link "
+"title.<br /><br /><strong><em>kocujsitemap_menuelement</em></strong><br /"
+"><br /><em>Parameters:</em><ol><li>string - menu option with all HTML tags "
+"and attributes</li><li>int - object ID for menu item</li><li>string - "
+"current locale (this parameter is available from version 1.2.0 of the "
+"##PLUGINNAME## plugin)</li></ol><em>Returned value:</em><ol><li>string - "
+"menu option with all HTML tags and attributes</li></ol><em>Description:</"
+"em><br /><br />This filter sets a menu option - with all HTML tags and "
+"attributes. This filter exists only in WordPress version 3.0 and newer."
+msgstr ""
+
+#: .././classes/admin.class.php:447
+msgid "Planned features"
+msgstr ""
+
+#: .././classes/admin.class.php:448
+msgid ""
+"<ul><li>Support for more multilingual plugins,</li><li>Widget with sitemap,</"
+"li><li>More parameters for shortcode and PHP function,</li><li>Easy control "
+"of shortcode parameters in HTML and visual editor,</li><li>Generating XML "
+"sitemap for search engines,</li><li>More filters for changing behavior of "
+"the plugin.</li></ul>You can also suggest a feature by sending a message to "
+"##AUTHORMAIL## ."
+msgstr ""
+
+#: .././classes/admin.class.php:450
+msgid "Contact"
+msgstr ""
+
+#: .././classes/admin.class.php:451
+msgid ""
+"If you have any suggestion, feel free to email me at ##AUTHORMAIL## .<br /"
+"><br />If you want to have a regular information about this plugin, please "
+"become a fan of plugin on Facebook:<br />##FACEBOOKLINK##<br /><br />See "
+"also official plugin site:<br />##WEBSITELINK##"
+msgstr ""
+
+#: .././classes/admin.class.php:475
+msgid "TRANSLATION_AUTHORS"
+msgstr ""
+
+#: .././classes/admin.class.php:477
+#, php-format
+msgid ""
+"Icons (arrows and close button) has been used under %s license and they are "
+"provided by"
+msgstr ""
+
+#: .././classes/config.class.php:35
+msgid "Display link to main site"
+msgstr ""
+
+#: .././classes/config.class.php:37
+msgid "Display menus"
+msgstr ""
+
+#: .././classes/config.class.php:39
+msgid "Display pages"
+msgstr ""
+
+#: .././classes/config.class.php:40
+msgid "Display posts"
+msgstr ""
+
+#: .././classes/config.class.php:46
+msgid "Order of elements in the sitemap"
+msgstr ""
+
+#: .././classes/config.class.php:48
+msgid "Menus list"
+msgstr ""
+
+#: .././classes/config.class.php:55
+msgid "Use HTML 5 `nav` tag"
+msgstr ""
+
+#: .././classes/config.class.php:56
+msgid "Display `powered by` information below sitemap"
+msgstr ""
+
+#: .././classes/multilang.class.php:133
+#, php-format
+msgid "Use %s plugin"
+msgstr ""
+
+#: .././classes/multilang.class.php:134
+#, php-format
+msgid ""
+"Use %s plugin (if installed and activated) for multi-language websites; "
+"uncheck it only if you have any problems because of this setting"
+msgstr ""
+
+#: .././php/tinymce/kocujsitemap-plugin-langs.php:5
+msgid "Kocuj Sitemap WordPress plugin buttons"
+msgstr ""

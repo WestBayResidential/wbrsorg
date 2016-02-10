@@ -1,0 +1,378 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Simple Sitemap"
+msgstr ""
+
+#. Short description.
+msgid "Powerful but simple to use HTML sitemap. Display site content in one or more lists separated by post type, customized via flexible filters."
+msgstr ""
+
+#. Screenshot description.
+msgid "Once plugin has been activated simply add the [simple-sitemap] shortcode to any page, post, or text widget."
+msgstr ""
+
+#. Screenshot description.
+msgid "Simple Sitemap displays a list of all the specified post types."
+msgstr ""
+
+#. Screenshot description.
+msgid "Plugin admin page details all the shortcode attributes available."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This is probably the easiest way to add a powerful HTML sitemap to your site! Simply enter the <code>[simple-sitemap]</code> shortcode in a post, page, custom post type, or text widget and you're good to go. Simple as that!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The sitemap shortcode has several attributes you can use to control how the sitemap is rendered including:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"'types': comma separated list of post types to display in the sitemap\n"
+"'show_label': show the heading label for each post ['true'|'false']\n"
+"'links': show sitemap list as links or plain text ['true'|'false']\n"
+"'page_depth': hierarchy of child pages to show [0|1|2|3]\n"
+"'order': sort order of list ['asc'|'desc']\n"
+"'orderby': field to sort by [title|author|date|ID]\n"
+"'exclude': comma separated list of post IDs to exclude"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This gives your visitors an efficient way to view ALL site content in ONE place. It is also great for SEO purposes and makes it easier for spiders to index your site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "To display the sitemap simply add the [simple-sitemap] shortcode to any post or page (or text widget) and you'll have a full indexed sitemap enabled on your website!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"Simple Sitemap Pro version coming soon!\n"
+"- Render your sitemap in multiple columns, or even inside tabs!\n"
+"- Customize each of the lists in your sitemap, rather than have settings apply to all post types?\n"
+"- Advanced filtering of posts via taxonomies.\n"
+"- Group posts inside each post type list by author, date, taxonomy etc.\n"
+"- Three additional shortcodes to achieve exactly the sitemap layout you need.\n"
+"- Add multiple specialized lists to different pages. e.g. different sitemaps for different custom post types, or different categories from the same post type.\n"
+"- Finer granular control over how the sitemap is rendered.\n"
+"- And more..!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Let us know what you'd like to see in the Pro version <a href=\"http://wpgoplugins.com/contact-us/\">here</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Please rate this Plugin if you find it useful. It only takes a couple of seconds and is very much appreciated! :)"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "See our <a href=\"http://www.wpgoplugins.com\">WordPress plugin site</a> for more plugins."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Via the WordPress admin go to Plugins =&gt; Add New."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Enter 'Simple Sitemap' (without quotes) in the textbox and click the 'Search Plugins' button."
+msgstr ""
+
+#. Found in installation list item.
+msgid "In the list of relevant Plugins click the 'Install' link for Simple Sitemap on the right hand side of the page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click the 'Install Now' button on the popup page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click 'Activate Plugin' to finish installation."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Add [simple-sitemap] shortcode to a page to display the sitemap on your site."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Screenshots updated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin completely rewritten to include a range of shortcode attributes to make rendering the sitemap much more flexible!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All previous plugin options removed from the plugin settings page. Use the new shortcode attributes instead. See the plugin settings page for full deatils."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New, cleaner HTML and CSS. New CSS classes used."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Translation support added!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "More settings page updates."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Settings page updated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug with CPT links."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sitemap shortcode now works in text widgets."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug limiting CPT posts to displaying a maximum of 5 each."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Links on Plugins page updated."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed front end drop downs. Sitemap rendering now solely controlled via plugin settings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Support for Custom Post Types added!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security issue addressed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All functions now properly name-spaced."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added $wpdb-&gt;prepare() to SQL query."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Plugin options page text."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now works nicely in sidebars (via a Text widget)!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug where existing Plugin users saw no posts/pages on the sitemap after upgrade to 1.51."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a 'Settings' link to the main Plugins page, next to the 'Deactivate' link to allow easy navigation to the Simple Sitemap Plugin options page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated WordPress compatibility version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update to Plugin option page text."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated for WordPress 3.5.1."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor CSS bug fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "ALL Plugin styles affecting the sitemap have been removed to allow the current theme to control the styles. This enables the sitemap to blend in with the current theme, and allows for easy customisation of the CSS as there are plenty of sitemap classes to hook into."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "All sitemap content is now listed in a single column to allow for additional listings for CPT to be added later."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Plugin options to show/hide posts or pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor updates to Plugin options page, and some internal functions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin option added to exclude pages by ID!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug fix: ALL posts are now listed and are not restricted by the Settings -&gt; Reading value."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed HTML bug. Replaced deprecated function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dropdown sort boxes on the front end now work much better in all browsers. Thanks to Matt Bailey for this fix."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the .sticky CSS class to be .ss_sticky to avoid conflict with the WordPress .sticky class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed minor bug in 'Posts' view, when displaying the date. There was an erroneous double quotes in the dates link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed CSS bug. Was affecting the size of some themes Nav Menu font sizes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now supports WordPress 3.0.3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Plugin options page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue: http://wordpress.org/support/topic/plugin-simple-sitemap-duplicated-id-post_item"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue: http://wordpress.org/support/topic/plugin-simple-sitemap-empty-span-when-post-is-not-sticky"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Plugin admin options page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed several small bugs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sitemap layout tweaked and generally improved"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new rendering of sitemap depending on drop-down options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New options to sort by category, author, tags, and date improved significantly"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.81 update</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.8 update</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.7 update</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.65 update</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.64 update</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.63</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.62</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.61</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.6</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.54</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.53</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.52</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.51</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.5</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.4.1</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.4</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.3.1</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.3</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.28</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.27</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.26</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.25</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.20</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.10 Fixed so that default permalink settings work fine on drop-down filter</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.01 Minor amendments</em>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<em>1.0 Initial release</em>"
+msgstr ""
